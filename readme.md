@@ -9,5 +9,5 @@ I initially reviewed the dataset documentation on Kaggle to understand the busin
 
 Please see word document that contains full details on the ETL and modelling
 
-![Data Model](/images/datamodel.png)
+![Data Model](/images/datamodel.PNG)
 
