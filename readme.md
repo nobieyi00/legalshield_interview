@@ -11,3 +11,8 @@ Please see word document that contains full details on the ETL and modelling
 
 ![Data Model](/images/datamodel.PNG)
 
+
+
+# ELT Architecture
+![ELT](/images/ELT_architecture.PNG)
+
